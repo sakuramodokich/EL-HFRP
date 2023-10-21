@@ -1,1 +1,1 @@
-# UKB-LightHF
+# UKB-HFRS
