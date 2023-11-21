@@ -1,2 +1,2 @@
-# UKB-HFRS
-Heart Failure Risk Prediction Score based on UK Biobank cohort
+# EL-HFRP
+Ensemble Leaning - Heart Failure Risk Prediction based on UK Biobank cohort
